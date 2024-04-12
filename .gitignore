@@ -1,0 +1,13 @@
+# Ignore everything
+/*
+!.gitignore
+!README.md
+
+# But not these files...
+!.vimrc
+!.zshrc
+
+# And not these directories and the contents inside them
+!.vim/
+!.oh-my-zsh/
+
