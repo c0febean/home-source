@@ -1,5 +1,5 @@
 # home-source
-Configuration of the user directory for systems based on the linxu and macox series.
+Configuration of the user directory for systems based on the linux and macox series.
 
 # Usage
 ``` shell
